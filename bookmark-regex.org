@@ -1,0 +1,7 @@
+* features
+** to save the bookmark for the regex used for search
+** can be used for all the searches like:
+*** isearch
+*** occur
+*** helm
+** can save the bookmark from a previously used search
